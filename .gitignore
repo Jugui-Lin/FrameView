@@ -1,0 +1,8 @@
+/work/
+/outputs/
+/build/
+/.deps/
+*.user
+*.suo
+*.pdb
+*.fdeck
